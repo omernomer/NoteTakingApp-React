@@ -7,13 +7,13 @@ import firebase from 'firebase';
 //require('firebase/firestore');
 
 firebase.initializeApp({
-  apiKey: "AIzaSyB-nRH2R-XamO-GOApfT0ZJj8RVdWzSoZM",
-  authDomain: "evernote-clone-2624d.firebaseapp.com",
-  projectId: "evernote-clone-2624d",
-  storageBucket: "evernote-clone-2624d.appspot.com",
-  messagingSenderId: "814075315480",
-  appId: "1:814075315480:web:1fbc0055e8a2a598ad0a6d",
-  measurementId: "G-LNM5N4V927"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 });
 firebase.analytics();
 
